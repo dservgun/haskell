@@ -1,4 +1,4 @@
-resolver: lts-14.7
+resolver: lts-16.13
 extra-deps:
 - jsonpath-0.1.0.1
 - jwt-0.10.0

@@ -666,4 +666,4 @@ main =
       propMimeEq MimeJSON (Proxy :: Proxy V2beta2ResourceMetricSource)
       propMimeEq MimeJSON (Proxy :: Proxy V2beta2ResourceMetricStatus)
       propMimeEq MimeJSON (Proxy :: Proxy VersionInfo)
-      
+
